@@ -8,7 +8,7 @@ public class ProblemSolving1 {
     public static void main(String[] args) {
         
         
-     int nums[] = {3,7,12};
+     int nums[] = {3,7,12,15};
      int target = 15;
      if(nums[0]+nums[1]== target){
          System.out.println(0+", "+1);

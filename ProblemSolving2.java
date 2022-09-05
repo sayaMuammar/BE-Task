@@ -7,7 +7,7 @@ public class ProblemSolving2 {
     
     public static void main(String[] args) {
         
-    int x = 1234;
+    int x = 1234321;
     
     int reverse = 0; 
     int temp = x;
