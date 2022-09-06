@@ -19,7 +19,7 @@ public class ProblemSolving2 {
         x = x/10;  
     
     }  
-        if(temp == reverse){
+        if(temp == Math.abs(reverse){
             System.out.println("true");
         }else{
             System.out.println("false");
